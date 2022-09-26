@@ -2,7 +2,7 @@
 
 Olá pessoa desenvolvedora Android!
 
-Este desafio consiste em desenvolver um aplicativo que consuma uma API e exiba os filmes de Star Wars lançados até então.
+Este desafio consiste em desenvolver um aplicativo que consuma uma API para exibir os filmes de Star Wars lançados até então.
 
 ## Detalhes
 - A API ```https://api.npoint.io/dc12046175d1c54574fb``` retornará uma lista de filmes com o seguinte formato:
