@@ -35,7 +35,7 @@ Este desafio consiste em desenvolver um aplicativo que consuma uma API para exib
 - A tela deve possuir estados para o carregamento dos dados e para situações de erro ou sucesso
 - Para este desafio, é esperado que a tela seja desenvolvida utilizando layout XML e não Compose
 - O aplicativo deve ser desenvolvido inteiramente em Kotlin, utilizando as arquiteturas Clean e MVVM/MVI
-- O aplicativo poderá ter grandes mudanças no futuro e para isso possuir testes unitários das lógicas de apresentação, domínio e dados é essencial
+- O aplicativo poderá ter grandes mudanças no futuro e para isso possuir testes unitários é essencial
 - Uso de coroutines em código executado de forma assíncrona
 - Mudanças de configuração, como rotacionar o celular, podem causar em perda do estado da tela. É ideal que o estado permaneça nessas situações.
 
