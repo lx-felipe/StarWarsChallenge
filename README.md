@@ -14,7 +14,7 @@ Este desafio consiste em desenvolver um aplicativo que consuma uma API para exib
         "title": "A New Hope",
         "director": "George Lucas",
         "episode_id": "IV",
-        "release_date": "1977-05-25"
+        "release_date": "25-05-1977"
       }
   ]
   ```
@@ -24,7 +24,7 @@ Este desafio consiste em desenvolver um aplicativo que consuma uma API para exib
   **title** <br>Nome do filme<br><br>
   **director** <br>Nome do diretor do filme<br><br>
   **episode_id** <br>Número romano equivalente ao episódio do filme<br><br>
-  **release_date** <br>Data de lançamento no formato YYYY-MM-DD<br><br>
+  **release_date** <br>Data de lançamento no formato DD-MM-YYYY<br><br>
   
   Todos os dados devem ser exibidos na lista.
   
@@ -35,7 +35,7 @@ Este desafio consiste em desenvolver um aplicativo que consuma uma API para exib
 - A tela deve possuir estados para o carregamento dos dados e para situações de erro ou sucesso
 - Para este desafio, é esperado que a tela seja desenvolvida utilizando layout XML e não Compose
 - O aplicativo deve ser desenvolvido inteiramente em Kotlin, utilizando as arquiteturas Clean e MVVM/MVI
-- O aplicativo poderá ter grandes mudanças no futuro e para isso possuir testes unitários é essencial
+- O aplicativo poderá ter grandes mudanças no futuro e para isso possuir testes unitários das lógicas de apresentação, domínio e dados é essencial
 - Uso de coroutines em código executado de forma assíncrona
 - Mudanças de configuração, como rotacionar o celular, podem causar em perda do estado da tela. É ideal que o estado permaneça nessas situações.
 
@@ -46,4 +46,10 @@ Este desafio consiste em desenvolver um aplicativo que consuma uma API para exib
 
 ## Exemplo 
 ![starwars](https://user-images.githubusercontent.com/11378932/192324338-17f6385b-cd0e-487c-94d1-253e2d1ad2d6.gif)
+
+
+
+
+
+#### Que a força esteja com você 🚀
 
